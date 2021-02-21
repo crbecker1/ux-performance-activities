@@ -55,10 +55,22 @@ p {
 
 /* HEADER SECTION */
 
+#header {
+  background: url(../img/header_copy.jpg) no-repeat center top;
+  padding-top: 200px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 700px;
+  width: 100%;
+  background-size: cover;
+}
+
 #header h1 {
   font-weight: 900;
   color: #03c9a9;
-  font-size: 90px;
+  font-size: 78px;
+  padding-left: 13%;
 }
 
 #header h2 {
